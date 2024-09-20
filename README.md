@@ -19,9 +19,9 @@ Bash.
 
 For more information, check [my website](https://ulisesrey.github.io/) or find me on [LinkedIn](https://www.linkedin.com/in/ulisesrey/).
 
-<p align="center">
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
-</p>
+
 
 <!--
 **ulisesrey/ulisesrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
