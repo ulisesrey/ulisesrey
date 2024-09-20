@@ -8,7 +8,7 @@ I am a Data Scientist with a strong background in Neuroscience. I have expertise
   - [NYC Taxi Traffic Analysis](): Analysis of the taxi routes in NYC, before during and after the COVID pandemic. 👷🏼 Cleaning it up to add it soon.
   - [Machine Learning](): 👷🏼 Cleaning it up to add it soon.
   - [Deep Learning](): 👷🏼 Cleaning it up to add it soon.
-  - [Data Mining](): Barcelona neighborhood analysis. 👷🏼 Cleaning it up to add it soon.
+  - [Barcelona neighborhood analysis](): . 👷🏼 Cleaning it up to add it soon.
 
 - 🏆 Programming Languages:
 Python,
