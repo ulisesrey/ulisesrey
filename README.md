@@ -21,7 +21,7 @@ Bash.
   - Diploma in Human Biology by the Universitat Pompeu Fabra of Barcelona (2007-2012)
   - PhD in Neuroscience at the Free University of Berlin with a Max Planck Fellowship (2012-2018)
   - Postdoctoral researcher at the University of Vienna (2017-2023)
-  - Master in Data Science (2023 - 2024)
+  - Master in Data Science (2023-2024)
 
 
 For more information, check [my website](https://ulisesrey.github.io/) or find me on [LinkedIn](https://www.linkedin.com/in/ulisesrey/).
