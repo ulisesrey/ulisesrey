@@ -3,7 +3,12 @@ I am a Data Scientist with a strong background in Neuroscience. I have expertise
 Check out some of my public repositories:
 - [imutils](https://github.com/ulisesrey/imutils/): A image processing repository to analyze microscopy images that I wrote for my research at the University of Vienna. It is being used and further developed by the researchers in the Zimmer Lab.
 - [Fiji Macros](https://github.com/ulisesrey/fiji_macros/): A compilation of macros and scripts for the image processing software FIji (ImageJ).
-- [Movie Analysis](https://github.com/ulisesrey/movie_project): A repository to analyze dataasets from the Internet Movie Database (imbd), as an assignemnt of the master in Data Science - UOC.
+- [Movie Analysis](https://github.com/ulisesrey/movie_project): An installable package to analyze datasets from the Internet Movie Database (imbd), as an assignemnt of the master in Data Science - UOC.
+- [Sentiment Analysys of Movie Reviews](): A Natural Processing Language project to predict positive vs negative review based on the sentiment analysis of the text. Supervised by Mariona Carós. 👷🏼 Coming Soon.
+- [NYC Taxi Traffic Analysis](): Analysis of the taxi routes in NYC, before during and after the COVID pandemic. 👷🏼 Cleaning it up to add it soon.
+- [Machine Learning](): 👷🏼 Cleaning it up to add it soon.
+- [Deep Learning](): 👷🏼 Cleaning it up to add it soon.
+- [Data Mining](): Barcelona neighborhood analysis. 👷🏼 Cleaning it up to add it soon.
 
 🏆 Programming Languages:
 Python,
