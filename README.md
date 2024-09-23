@@ -8,7 +8,7 @@ Check out some of my public repositories on these topics:
 - Natural Language Processing (NLP):
    - [Sentiment Analysis of Movie Reviews](https://github.com/ulisesrey/imbd_sentiment_analysis): A project to predict positive vs negative reviews based on the sentiment analysis of the text.
 - Machine Learning and Deep Learning:
-   - [NYC Taxi Traffic Analysis](https://github.com/ulisesrey/nyc_taxi_study): Analysis of the taxi routes in NYC, before during and after the COVID pandemic. 👷🏼
+   - [NYC Taxi Traffic Analysis](https://github.com/ulisesrey/nyc_taxi_study): Analysis of the taxi routes in NYC, before during and after the COVID pandemic.
   - [NASA Skyrocket failure detection](): 👷🏼 Cleaning it up to add it soon.
   - [MNIST DataSet Prediction](): 👷🏼 Cleaning it up to add it soon.
   - [Barcelona neighborhood analysis](): . 👷🏼 Cleaning it up to add it soon.
