@@ -1,21 +1,29 @@
 ## Welcome to my github profile 👋
 I am a Data Scientist with a strong background in Neuroscience. I have expertise in Computer Vision, Machine Learning and NLP.
-- Check out some of my public repositories:
-  - [imutils](https://github.com/ulisesrey/imutils/): A image processing repository to analyze microscopy images that I wrote for my research at the University of Vienna. It is being used and further developed by the researchers in the Zimmer Lab.
+Check out some of my public repositories on:
+
+- Computer Vision and Image Processing:
+   - [imutils](https://github.com/ulisesrey/imutils/): A image processing repository to analyze microscopy images that I wrote for my research at the University of Vienna. It is being used and further developed by the researchers in the Zimmer Lab.
   - [Fiji Macros](https://github.com/ulisesrey/fiji_macros/): A compilation of macros and scripts for the image processing software FIji (ImageJ).
-  - [Movie Analysis](https://github.com/ulisesrey/movie_project): An installable package to analyze datasets from the Internet Movie Database (imbd), as an assignemnt of the master in Data Science - UOC.
-  - [Bike as a service prediction modelling](https://github.com/franmastromarino/ub-bicing-capstone-project): We developed a forecasting model on the transport use of a bike as a service platform in Barcelona. We use databricks to log model parameters and streamlit for app deployment and visualization.
-  - [Sentiment Analysys of Movie Reviews](https://github.com/ulisesrey/imbd_sentiment_analysis): A Natural Processing Language project to predict positive vs negative review based on the sentiment analysis of the text. Supervised by Mariona Carós.
-  - [NYC Taxi Traffic Analysis](): Analysis of the taxi routes in NYC, before during and after the COVID pandemic. 👷🏼 Cleaning it up to add it soon.
-  - [Machine Learning](): 👷🏼 Cleaning it up to add it soon.
-  - [Deep Learning](): 👷🏼 Cleaning it up to add it soon.
+- Natural Language Processing (NLP):
+   - [Sentiment Analysis of Movie Reviews](https://github.com/ulisesrey/imbd_sentiment_analysis): A Natural Processing Language project to predict positive vs negative review based on the sentiment analysis of the text. Supervised by Mariona Carós.
+- Machine Learning and Deep Learning:
+   - [NYC Taxi Traffic Analysis](): Analysis of the taxi routes in NYC, before during and after the COVID pandemic. 👷🏼 Cleaning it up to add it soon.
+  - [NASA Skyrocket failure detection](): 👷🏼 Cleaning it up to add it soon.
+  - [MNIST DataSet Prediction](): 👷🏼 Cleaning it up to add it soon.
   - [Barcelona neighborhood analysis](): . 👷🏼 Cleaning it up to add it soon.
+- Data Engineering and Data Analysis:
+  - [Movie Analysis](https://github.com/ulisesrey/movie_project): An installable package to analyze datasets from the Internet Movie Database (imbd), as an assignment of the master in Data Science - UOC.
+  - [Bike as a service prediction modelling](https://github.com/franmastromarino/ub-bicing-capstone-project): We developed a forecasting model on the transport use of a bike as a service platform in Barcelona. We use databricks to log model parameters and streamlit for app deployment and visualization.
+
+
 
 - 🏆 Programming Languages:
 Python,
-Matlab,
+R,
 Java,
-Bash.
+Bash,
+Matlab.
 
 - Education and Professional Experience:
   - Diploma in Human Biology by the Universitat Pompeu Fabra of Barcelona (2007-2012)
