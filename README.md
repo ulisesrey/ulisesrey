@@ -14,7 +14,7 @@ Check out some of my public repositories on these topics:
   - [Barcelona neighborhood analysis](): . 👷🏼 Cleaning it up to add it soon.
 - Data Engineering and Data Analysis:
   - [Movie Analysis](https://github.com/ulisesrey/movie_project): An installable package to analyze datasets from the Internet Movie Database (imbd). FInal project of Python I of the master in Data Science - UOC.
-  - [Bike as a service prediction modelling](https://github.com/franmastromarino/ub-bicing-capstone-project): We developed a forecasting model on the transport use of a bike as a service platform in Barcelona. We use databricks to log model parameters and streamlit for app deployment and visualization.
+  - [Bike as a service prediction modelling](https://github.com/franmastromarino/ub-bicing-capstone-project): A forecasting model on the transport use of a bike as a service platform in Barcelona. Used databricks to log model parameters and streamlit for app deployment and visualization.
 
 
 
