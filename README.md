@@ -1,6 +1,6 @@
 ## Welcome to my github profile 👋
 I am a Data Scientist with a strong background in Neuroscience. I have expertise in Computer Vision, Machine Learning and NLP.
-Check out some of my public repositories on:
+Check out some of my public repositories on these topics:
 
 - Computer Vision and Image Processing:
    - [imutils](https://github.com/ulisesrey/imutils/): An image processing repository to analyze microscopy images that I wrote for my research at the University of Vienna. It is being used and further developed by the researchers in the Zimmer Lab.
