@@ -13,7 +13,7 @@ Check out some of my public repositories on these topics:
   - [MNIST DataSet Prediction](): 👷🏼 Cleaning it up to add it soon.
   - [Barcelona neighborhood analysis](): . 👷🏼 Cleaning it up to add it soon.
 - Data Engineering and Data Analysis:
-  - [Movie Analysis](https://github.com/ulisesrey/movie_project): An installable package to analyze datasets from the Internet Movie Database (imbd). FInal project of Python I of the master in Data Science - UOC.
+  - [Movie Analysis](https://github.com/ulisesrey/movie_project): An installable package to analyze datasets from the Internet Movie Database (imbd). Final project of Python I of the master in Data Science - UOC.
   - [NYC Taxi Traffic Analysis](https://github.com/ulisesrey/nyc_taxi_study): Analysis of the taxi routes in NYC, before during and after the COVID pandemic.
   - [Bike as a service prediction modelling](https://github.com/franmastromarino/ub-bicing-capstone-project): A forecasting model on the transport use of a bike as a service platform in Barcelona. Used databricks to log model parameters and streamlit for app deployment and visualization.
 
