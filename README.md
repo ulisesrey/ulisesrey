@@ -11,7 +11,7 @@ Check out some of my public repositories on these topics:
 
   - [NASA Skyrocket failure detection](): 👷🏼 Cleaning it up to add it soon.
   - [MNIST DataSet Prediction](): 👷🏼 Cleaning it up to add it soon.
-  - [Barcelona neighborhood analysis](): . 👷🏼 Cleaning it up to add it soon.
+  - [Barcelona neighborhood analysis](https://github.com/ulisesrey/mining_barcelona/): A study on Barcelona's neighborhoods features and the possibility to predict the mean income of that neighborhood based on them.
 - Data Engineering and Data Analysis:
   - [Movie Analysis](https://github.com/ulisesrey/movie_project): An installable package to analyze datasets from the Internet Movie Database (imbd). Final project of Python I of the master in Data Science - UOC.
   - [NYC Taxi Traffic Analysis](https://github.com/ulisesrey/nyc_taxi_study): Analysis of the taxi routes in NYC, before during and after the COVID pandemic.
