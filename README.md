@@ -4,7 +4,7 @@ Check out some of my public repositories on these topics:
 
 - Computer Vision and Image Processing:
    - [imutils](https://github.com/ulisesrey/imutils/): An image processing repository to analyze microscopy images that I wrote for my research at the University of Vienna. It is being used and further developed by the researchers in the Zimmer Lab.
-  - [Fiji Macros](https://github.com/ulisesrey/fiji_macros/): A compilation of macros and scripts for the image processing software FIji (ImageJ).
+  - [Fiji Macros](https://github.com/ulisesrey/fiji_macros/): A compilation of macros and scripts for the image processing software Fiji (ImageJ).
 - Natural Language Processing (NLP):
    - [Sentiment Analysis of Movie Reviews](https://github.com/ulisesrey/imbd_sentiment_analysis): A project to predict positive vs negative reviews based on the sentiment analysis of the text.
 - Machine Learning and Deep Learning:
