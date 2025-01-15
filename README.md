@@ -6,7 +6,8 @@ Check out some of my public repositories on these topics:
    - [imutils](https://github.com/ulisesrey/imutils/): An image processing repository to analyze microscopy images that I wrote for my research at the University of Vienna. It is being used and further developed by the researchers in the Zimmer Lab.
   - [Fiji Macros](https://github.com/ulisesrey/fiji_macros/): A compilation of macros and scripts for the image processing software Fiji (ImageJ).
 - Natural Language Processing (NLP):
-   - [Sentiment Analysis of Movie Reviews](https://github.com/ulisesrey/imbd_sentiment_analysis): A project to predict positive vs negative reviews based on the sentiment analysis of the text.
+   - [Sentiment Analysis of Movie Reviews](https://github.com/ulisesrey/imbd_sentiment_analysis): Trained and developed an NLP model utilizing word embeddings and text vectorization techniques to classify movie reviews as positive or negative based on textual input.
+   - [Newspaper headlines sentiment analysis](): Created a dataset of newspaper headlines via webscrapping, to analyze sentiment analysis depending on variables such as topic, location, author gender, date, etc. 👷🏼 Cleaning it up to add it soon.
 - Machine Learning and Deep Learning:
 
   - [NASA Skyrocket failure detection](): 👷🏼 Cleaning it up to add it soon.
