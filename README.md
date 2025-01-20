@@ -7,7 +7,7 @@ Check out some of my public repositories on these topics:
   - [Fiji Macros](https://github.com/ulisesrey/fiji_macros/): A compilation of macros and scripts for the image processing software Fiji (ImageJ).
 - Natural Language Processing (NLP):
    - [Sentiment Analysis of Movie Reviews](https://github.com/ulisesrey/imbd_sentiment_analysis): Trained and developed an NLP model utilizing word embeddings and text vectorization techniques to classify movie reviews as positive or negative based on textual input.
-   - [Newspaper headlines sentiment analysis](): Created a dataset of newspaper headlines via webscrapping, to analyze sentiment analysis depending on variables such as topic, location, author gender, date, etc. 👷🏼 Cleaning it up to add it soon.
+   - [Newspaper headlines sentiment analysis](https://github.com/ulisesrey/the_guardian_scraper): Created a dataset of newspaper headlines via webscrapping, to analyze sentiment analysis depending on variables such as topic, location, author gender, date, etc. 👷🏼 (To be updated).
    - 
 - Machine Learning and Deep Learning:
   - [NASA Skyrocket failure detection](https://github.com/ulisesrey/Machine_Learning_Course?tab=readme-ov-file#12-nasa-skyrocket-failure-detection-using-imblearn-and-lda): Used the imblearn library to balance a dataset to predict very rare occurances of rocket failure. Different data augmentation methods (Random, SMOTE, ADASYN) were evaluated with a simple Linear Discrimination Analysis to determine best strategy to launch rockets safely.
