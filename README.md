@@ -7,7 +7,7 @@ Check out some of my public repositories on these topics:
   - [Fiji Macros](https://github.com/ulisesrey/fiji_macros/): A compilation of macros and scripts for the image processing software Fiji (ImageJ).
 - Natural Language Processing (NLP):
    - [Sentiment Analysis of Movie Reviews](https://github.com/ulisesrey/imbd_sentiment_analysis): Trained and developed an NLP model utilizing word embeddings and text vectorization techniques to classify movie reviews as positive or negative based on textual input.
-   - [Newspaper headlines sentiment analysis](https://github.com/ulisesrey/the_guardian_scraper): Created a dataset of newspaper headlines via webscrapping, to analyze sentiment analysis depending on variables such as topic, location, author gender, date, etc.  (👷🏼 New prgress to be updated).
+   - [Newspaper headlines sentiment analysis](https://github.com/ulisesrey/the_guardian_scraper): Created a dataset of newspaper headlines via webscrapping, to analyze sentiment analysis depending on variables such as topic, location, author gender, date, etc.  (👷🏼 New progress to be updated).
    - Paraphrasing: Trained an NLP model o detect if two sentences are paraphrases or not. (👷🏼 Not available yet).
      
 - Machine Learning and Deep Learning:
