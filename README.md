@@ -7,8 +7,9 @@ Check out some of my public repositories on these topics:
   - [Fiji Macros](https://github.com/ulisesrey/fiji_macros/): A compilation of macros and scripts for the image processing software Fiji (ImageJ).
 - Natural Language Processing (NLP):
    - [Sentiment Analysis of Movie Reviews](https://github.com/ulisesrey/imbd_sentiment_analysis): Trained and developed an NLP model utilizing word embeddings and text vectorization techniques to classify movie reviews as positive or negative based on textual input.
-   - [Newspaper headlines sentiment analysis](https://github.com/ulisesrey/the_guardian_scraper): Created a dataset of newspaper headlines via webscrapping, to analyze sentiment analysis depending on variables such as topic, location, author gender, date, etc. 👷🏼 (To be updated).
-   - 
+   - [Newspaper headlines sentiment analysis](https://github.com/ulisesrey/the_guardian_scraper): Created a dataset of newspaper headlines via webscrapping, to analyze sentiment analysis depending on variables such as topic, location, author gender, date, etc.  (👷🏼 New prgress to be updated).
+   - Paraphrasing: Trained an NLP model o detect if two sentences are paraphrases or not. (👷🏼 Not available yet).
+     
 - Machine Learning and Deep Learning:
   - [NASA Skyrocket failure detection](https://github.com/ulisesrey/Machine_Learning_Course?tab=readme-ov-file#12-nasa-skyrocket-failure-detection-using-imblearn-and-lda): Used the imblearn library to balance a dataset to predict very rare occurances of rocket failure. Different data augmentation methods (Random, SMOTE, ADASYN) were evaluated with a simple Linear Discrimination Analysis to determine best strategy to launch rockets safely.
   - [genAI of numbers with MNIST+](https://github.com/ulisesrey/deep_learning_course/blob/main/README.md#4-gans-for-image-generation): Trained two neuronal GANs to generate images of numbers. In the first one, two adversarial networks are trained against each other to generate images that ressemble numbers. The second one is a condiotional GAN with labels to have a generative Network that can generate images of specific numbers.
