@@ -10,7 +10,7 @@ Check out some of my public repositories on these topics:
    - [Newspaper headlines sentiment analysis](): Created a dataset of newspaper headlines via webscrapping, to analyze sentiment analysis depending on variables such as topic, location, author gender, date, etc. 👷🏼 Cleaning it up to add it soon.
 - Machine Learning and Deep Learning:
 
-  - [NASA Skyrocket failure detection](): 👷🏼 Cleaning it up to add it soon.
+  - [NASA Skyrocket failure detection](https://github.com/ulisesrey/Machine_Learning_Course?tab=readme-ov-file#12-nasa-skyrocket-failure-detection-using-imblearn-and-lda): Used the imblearn library to balance dataset to predict very rare occurances of rocket failure. Different data balancing methods (Random, SMOTE, ADASYN) were evaluated with a simple LDA (Linear Discrimination Analysis) to determine best strategy to detect Rocket Failure.
   - [MNIST DataSet Prediction](): 👷🏼 Cleaning it up to add it soon.
   - [Barcelona neighborhood analysis](https://github.com/ulisesrey/mining_barcelona/): A study on Barcelona's neighborhoods features and the possibility to predict the mean income of that neighborhood based on them.
 - Data Engineering and Data Analysis:
