@@ -8,10 +8,10 @@ Check out some of my public repositories on these topics:
 - Natural Language Processing (NLP):
    - [Sentiment Analysis of Movie Reviews](https://github.com/ulisesrey/imbd_sentiment_analysis): Trained and developed an NLP model utilizing word embeddings and text vectorization techniques to classify movie reviews as positive or negative based on textual input.
    - [Newspaper headlines sentiment analysis](): Created a dataset of newspaper headlines via webscrapping, to analyze sentiment analysis depending on variables such as topic, location, author gender, date, etc. 👷🏼 Cleaning it up to add it soon.
+   - 
 - Machine Learning and Deep Learning:
-
   - [NASA Skyrocket failure detection](https://github.com/ulisesrey/Machine_Learning_Course?tab=readme-ov-file#12-nasa-skyrocket-failure-detection-using-imblearn-and-lda): Used the imblearn library to balance a dataset to predict very rare occurances of rocket failure. Different data augmentation methods (Random, SMOTE, ADASYN) were evaluated with a simple Linear Discrimination Analysis to determine best strategy to launch rockets safely.
-  - [MNIST DataSet Prediction](): 👷🏼 Cleaning it up to add it soon.
+  - [genAI of numbers with MNIST+](https://github.com/ulisesrey/deep_learning_course/blob/main/README.md#4-gans-for-image-generation): Trained two neuronal GANs to generate images of numbers. In the first one, two adversarial networks are trained against each other to generate images that ressemble numbers. The second one is a condiotional GAN with labels to have a generative Network that can generate images of specific numbers.
   - [Barcelona neighborhood analysis](https://github.com/ulisesrey/mining_barcelona/): A study on Barcelona's neighborhoods features and the possibility to predict the mean income of that neighborhood based on them.
 - Data Engineering and Data Analysis:
   - [Movie Analysis](https://github.com/ulisesrey/movie_project): An installable package to analyze datasets from the Internet Movie Database (imbd). Final project of Python I of the master in Data Science - UOC.
