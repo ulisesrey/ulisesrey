@@ -3,6 +3,8 @@ I am a Data Scientist with a strong background in Neuroscience. I have expertise
 Check out some of my public repositories on these topics:
 
 #### - Computer Vision and Image Processing:
+
+   - [Zero Shot Object Detection](https://github.com/ulisesrey/zero_shot_object_detection/): A proof of concept Zero Shot Object Detection with Owl2. It can be used to query an image with one or multiple text queries. 
    - [imutils](https://github.com/ulisesrey/imutils/): An image processing repository to analyze microscopy images that I wrote for my research at the University of Vienna. It is being used and further developed by the researchers in the Zimmer Lab.
   - [Fiji Macros](https://github.com/ulisesrey/fiji_macros/): A compilation of macros and scripts for the image processing software Fiji (ImageJ).
 #### - Natural Language Processing (NLP):
