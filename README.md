@@ -1,5 +1,5 @@
 ## Welcome to my github profile 👋
-I am a Data Scientist with a strong background in Neuroscience. I have expertise in Computer Vision, Machine Learning and NLP.
+I am a Data Scientist with a strong background in Neuroscience. I have expertise in Computer Vision, Machine Learning and Natural Language Processing (NLP).
 Check out some of my public repositories on these topics:
 
 #### - Computer Vision and Image Processing:
