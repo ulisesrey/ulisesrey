@@ -34,10 +34,13 @@ Bash,
 Matlab.
 
 ### Education and Professional Experience:
-  - Diploma in Human Biology by the Universitat Pompeu Fabra of Barcelona (2007-2012)
-  - PhD in Neuroscience at the Free University of Berlin with a Max Planck Fellowship (2012-2018)
+  - Senior Data Scientist at [Keepler Tech.](https://www.keepler.io) (2025 - Present)
+  - Master in Data Science (2023-2025)
   - Postdoctoral researcher at the University of Vienna (2017-2023)
-  - Master in Data Science (2023-2024)
+  - PhD in Neuroscience at the Free University of Berlin with a Max Planck Fellowship (2012-2018)
+  - Diploma in Human Biology by the Universitat Pompeu Fabra of Barcelona (2007-2012)
+
+
 
 
 For more information, check [my website](https://ulisesrey.github.io/) or find me on [LinkedIn](https://www.linkedin.com/in/ulisesrey/).
