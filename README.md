@@ -8,6 +8,7 @@ Check out some of my public repositories on these topics:
    - [imutils](https://github.com/ulisesrey/imutils/): An image processing repository to analyze microscopy images that I wrote for my research at the University of Vienna. It is being used and further developed by the researchers in the Zimmer Lab.
   - [Fiji Macros](https://github.com/ulisesrey/fiji_macros/): A compilation of macros and scripts for the image processing software Fiji (ImageJ).
 #### - Natural Language Processing (NLP) and Large Language Models (LLMs):
+   - [Retrieval Augmented Generation (RAG)](https://github.com/ulisesrey/RAG): Implemented RAG to retrieve information from large documents. Used Langchain and Chroma to build the vector store, and Langsmith for logging and evaluation.
    - [Sentiment Analysis of Movie Reviews](https://github.com/ulisesrey/imbd_sentiment_analysis): Trained and developed an NLP model utilizing word embeddings and text vectorization techniques to classify movie reviews as positive or negative based on textual input.
    - [Newspaper headlines sentiment analysis](https://github.com/ulisesrey/the_guardian_scraper): Created a dataset of newspaper headlines via webscrapping, to analyze sentiment analysis depending on variables such as topic, location, author gender, date, etc.  (👷🏼 New progress to be updated).
    - [Salary Prediciton](https://salary-predictor.up.railway.app/): Created an app to predict salary of a LinkedIn profile using the text available. 
