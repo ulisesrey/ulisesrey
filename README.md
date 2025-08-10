@@ -6,7 +6,7 @@ Check out some of my public repositories on these topics:
 
    - [Zero Shot Object Detection](https://github.com/ulisesrey/zero_shot_object_detection/): A proof of concept Zero Shot Object Detection with Owl2. It can be used to query an image with one or multiple text queries. 
    - [imutils](https://github.com/ulisesrey/imutils/): An image processing repository to analyze microscopy images that I wrote for my research at the University of Vienna. It is being used and further developed by researchers from the Neurobiology Department at the University of Vienna.
-  - [Fiji Macros](https://github.com/ulisesrey/fiji_macros/): A compilation of macros and scripts for the image processing software Fiji (ImageJ).
+  - [Fiji Macros](https://github.com/ulisesrey/fiji_macros/): A compilation of macros and scripts for the image processing software Fiji (ImageJ), written mostly during my PhD at the Freie Universität Berlin.
 #### - Natural Language Processing (NLP) and Large Language Models (LLMs):
    - [Retrieval Augmented Generation (RAG)](https://github.com/ulisesrey/RAG): Implemented RAG to retrieve information from large documents. Used Langchain and Chroma to build the vector store, and Langsmith for logging and evaluation.
    - [Sentiment Analysis of Movie Reviews](https://github.com/ulisesrey/imbd_sentiment_analysis): Trained and developed an NLP model utilizing word embeddings and text vectorization techniques to classify movie reviews as positive or negative based on textual input.
