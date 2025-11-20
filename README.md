@@ -4,9 +4,10 @@ Check out some of my public repositories on these topics:
 
 #### - Natural Language Processing (NLP) and Large Language Models (LLMs):
    - [Retrieval Augmented Generation (RAG)](https://github.com/ulisesrey/RAG): Implemented RAG to retrieve information from large documents. Used Langchain and Chroma to build the vector store, and Langsmith for logging and evaluation.
+   - [Pitch Detector](https://github.com/ulisesrey/pitch_detector): An App to analyze and visualize Fundamental Frequencies from voice recordings, to help students of languages with tones understand and improve their pronunciation.
    - [Sentiment Analysis of Movie Reviews](https://github.com/ulisesrey/imbd_sentiment_analysis): Trained and developed an NLP model utilizing word embeddings and text vectorization techniques to classify movie reviews as positive or negative based on textual input.
    - [Newspaper headlines sentiment analysis](https://github.com/ulisesrey/the_guardian_scraper): Created a dataset of newspaper headlines via webscrapping, to analyze sentiment analysis depending on variables such as topic, location, author gender, date, etc.  (👷🏼 New progress to be updated).
-   - [Salary Prediciton](https://salary-predictor.up.railway.app/): Created an app to predict salary of a LinkedIn profile using the text available. 
+   - [Salary Prediciton](https://salary-predictor.up.railway.app/): Created an app to predict salary of a LinkedIn profile using LLMs. 
    - Paraphrasing: Trained an NLP model o detect if two sentences are paraphrases or not. (👷🏼 Not available yet).
 
 #### - Computer Vision and Image Processing:
