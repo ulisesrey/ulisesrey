@@ -28,7 +28,7 @@ Check out some of my public repositories on these topics:
  - [Gross Net Salary Comparison](https://github.com/ulisesrey/brutto_netto_calculator): Small package to produce visualizations of gross vs net salary comparisons.
 
 #### - Music
-   - [Piano Chords](https://github.com/ulisesrey/piano_chords): A web app to learn piano chords and chord progression from keyboard midi-input. (Also available as a phone App (Android/iOS) upon request.
+   - [Piano Chords](https://github.com/ulisesrey/piano_chords): A web app to learn piano chords and chord progression from keyboard midi-input. Also available as a phone App (Android/iOS) upon request.
    - [Trebble Staff Builder](https://github.com/ulisesrey/latex_pentagrama): A simple LaTeX script to generate trebble staffs to print.
 
 ### 🏆 Programming Languages:
