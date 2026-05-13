@@ -27,9 +27,10 @@ Check out some of my public repositories on these topics:
   - [Bike as a service prediction modelling](https://github.com/franmastromarino/ub-bicing-capstone-project): A forecasting model on the transport use of a bike as a service platform in Barcelona. Used databricks to log model parameters and streamlit for app deployment and visualization.
  - [Gross Net Salary Comparison](https://github.com/ulisesrey/brutto_netto_calculator): Small package to produce visualizations of gross vs net salary comparisons.
 
-#### - Music
+#### - Music / Art
    - [Piano Chords](https://github.com/ulisesrey/piano_chords): A web app to learn piano chords and chord progression from keyboard midi-input. Also available as a phone App (Android/iOS) upon request.
    - [Trebble Staff Builder](https://github.com/ulisesrey/latex_pentagrama): A simple LaTeX script to generate trebble staffs to print.
+   - [The Met Art Dataset Builder](https://github.com/ulisesrey/the_met_art_dataset) is a small repo to download art datasets from The Metropolitan museum of NYC.
 
 ### 🏆 Programming Languages:
 Python,
